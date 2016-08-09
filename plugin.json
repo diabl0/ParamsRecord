@@ -1,0 +1,29 @@
+{
+  "name": "ParamsRecord",
+  "version": "0.1.0",
+  "description": "Records additional parameters per visit",
+  "theme": false,
+  "require": {
+    "piwik": ">=2.16.2"
+  },
+  "authors": [
+    {
+      "name": "Piwik",
+      "email": "",
+      "homepage": ""
+    }
+  ],
+  "support": {
+	    "email": "",
+	    "issues": "",
+	    "forum": "",
+	    "irc": "",
+	    "wiki": "",
+	    "source": "",
+	    "docs": "",
+	    "rss": ""
+  },
+  "homepage": "",
+  "license": "GPL v3+",
+  "keywords": []
+}
